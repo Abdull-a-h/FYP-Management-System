@@ -12,7 +12,7 @@ Panel Members Interface
 Project Supervisors Interface
 Students Interface
 
-FYP Committee Interface
+FYP Committee Interface:
 In FYPs the main role is of the FYP Committee. This view will be for the FYP
 Committee so only those faculty members access it who are part of FYP Committee. FYP
 Committee are users with authority to specify new users, specify users’ roles and grant general
@@ -37,13 +37,13 @@ be proper report generation process too. The FYP Committee will generate followi
  Missing Evaluation Report: This report contains all the missing evaluations like
 missing assessment items of the students, missing student evaluation by any faculty
 member.
- FYPs Supervised by Faculty Report: This report contains that which faculty
+FYPs Supervised by Faculty Report: This report contains that which faculty
 member is supervising which FYPs and workload count.
- Grades Report: This report contains grades statistics of students who get A’s grade,
+Grades Report: This report contains grades statistics of students who get A’s grade,
 and other grades also, statistics of faculty member who gave the most A’s grade.
 
 
-Panel Members Interface
+Panel Members Interface:
 This view will be for the faculty members so only those faculty members access it who are part
 of any panel. The panel members view the FYPs that are part of their panel like group members
 of the FYP, description of the FYP etc. It is mandatory that every panel member that is present
@@ -54,7 +54,7 @@ are part of his/her panel. It is important that one faculty member is in one pan
 member cannot part of two or more panels.
 
 
-Project Supervisors Interface
+Project Supervisors Interface:
 This view is for the supervisors so only those faculty members access it who are supervising
 FYPs in the current semester. The supervisors cannot supervise more than 6 FYPs. The
 supervisors can see the FYPs that are active, it means that those FYPs which are supervising
@@ -67,7 +67,7 @@ to the FYPs which he/she is supervising then this view should show the missing r
 that the supervisor gives reviews later.
 
 
-Students Interface
+Students Interface:
 This view is for the students who registered themselves in FYP I, so only those students access
 it who are registered in FYP I in the current semester. The student can see his/her group
 members (with whom student is working on FYP), project title/description (on which project
